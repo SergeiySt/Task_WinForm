@@ -32,3 +32,20 @@ C:\Users\Admin\Desktop\Task\obj\Debug\net7.0-windows\refint\Task.dll
 C:\Users\Admin\Desktop\Task\obj\Debug\net7.0-windows\Task.pdb
 C:\Users\Admin\Desktop\Task\obj\Debug\net7.0-windows\Task.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Task\obj\Debug\net7.0-windows\ref\Task.dll
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\bin\Debug\net7.0-windows\Task.exe
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\bin\Debug\net7.0-windows\Task.deps.json
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\bin\Debug\net7.0-windows\Task.runtimeconfig.json
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\bin\Debug\net7.0-windows\Task.dll
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\bin\Debug\net7.0-windows\Task.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.Form1.resources
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.csproj.GenerateResource.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.AssemblyInfoInputs.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.AssemblyInfo.cs
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.dll
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\refint\Task.dll
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.pdb
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\Task.genruntimeconfig.cache
+D:\ДЗ_Шаг\Windows Forms C#\GitHub\Task_WinForm\Task\obj\Debug\net7.0-windows\ref\Task.dll
