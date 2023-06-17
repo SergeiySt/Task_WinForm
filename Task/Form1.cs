@@ -13,7 +13,7 @@ namespace Task
             InitializeComponent();
         }
 
-        private async void buttonBegin_Click(object sender, EventArgs e)
+        private void buttonBegin_Click(object sender, EventArgs e)
         {
             if (process)
                 return;
@@ -21,14 +21,18 @@ namespace Task
             process = true;
             buttonBegin.Enabled = false;
 
-            await System.Threading.Tasks.Task.Run(() =>
-            {
-                System.Threading.Tasks.Task.Delay(2000).Wait();
-                CounterValue();
-            });
+            System.Threading.Tasks.Task.Run(() =>
+           {
+               CounterValue();
+               System.Threading.Tasks.Task.Delay(2000).Wait();
+               
 
-            buttonBegin.Enabled = true;
-            process = false;
+               this.Invoke(new Action(() =>
+               {
+                   buttonBegin.Enabled = true;
+                   process = false;
+               }));
+           });
         }
 
         private void CounterValue()
